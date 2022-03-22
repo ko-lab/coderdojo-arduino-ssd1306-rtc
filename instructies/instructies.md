@@ -43,7 +43,7 @@ Nu moet je nog de juiste com poort selecteren en de code wegschrijven volg daarv
 ![install-arduino-nano-every.gif](res/install-arduino-select-com-port-upload.gif)
 
 ### Tijd corrigeren.
-Het zal je waarshijnlijk opvallen dat de klok nog niet juist staat. Om dat op te lossen moeten we hetvolgende doen:
+Het zal je waarschijnlijk opvallen dat de klok nog niet juist staat. Om dat op te lossen moeten we hetvolgende doen:
 - Verander in de code 
   ``` 
   // rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
