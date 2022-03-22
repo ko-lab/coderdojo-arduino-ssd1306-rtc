@@ -12,6 +12,7 @@ Nu we gezien hebben hoe de code werkt en de bedrading hebben kunnen inspecteren 
 
 ### Adruino bedrading.
 Sluit de bedrading aan zoals het ook in de WokWi simulator is aangesloten.
+![res/arduino-clock-schema.png](res/arduino-clock-schema.png)
 Of je kan je ook baseren op deze foto:\
 ![res/real_arduino_connections.jpg](res/real_arduino_connections.jpg)
 **Opgelet: Laat je bedrading altijd eerst nog door een begeleider nakijken!** Zo voorkom je kapotte onderdelen.
