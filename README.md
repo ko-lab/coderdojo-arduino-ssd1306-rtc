@@ -3,7 +3,7 @@ Coder Dojo documentation for a project with an Arduino Nano Every connected to a
 
 ## Contents:
 - code: [src](src)
-- dutch documentation: [instructies](instructies)
+- dutch documentation: [instructies/instructies.md](instructies/instructies.md)
 ## Credits:
 - Inspired by the following instructable:
 https://www.instructables.com/Making-a-Clock-With-a-Hard-Disk/
