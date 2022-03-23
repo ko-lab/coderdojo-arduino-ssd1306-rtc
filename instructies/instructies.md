@@ -65,4 +65,4 @@ Het zal je waarschijnlijk opvallen dat de klok nog niet juist staat. Om dat op t
   - Deploy de code opnieuw(klik op het pijltje in de IDE linksboven)
 
 ## Knutselwerk
-Nu de arduino werkt, kunnen we de alles nog ineens steken in een zelf-gelasercutte omhulling!
+Nu de Arduino klok werkt, kunnen we de alles ineen knutselen! Dit gedeelte wordt later nog verder aangevuld.
