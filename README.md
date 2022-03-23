@@ -6,7 +6,9 @@ Coder Dojo documentation for a project with an Arduino Nano Every connected to a
 - dutch documentation: [instructies/instructies.md](instructies/instructies.md)
 ## Credits:
 - Inspired by the following instructable:
-https://www.instructables.com/Making-a-Clock-With-a-Hard-Disk/
-by HeeNano: https://www.youtube.com/channel/UCl6q8_pnFZzDTH5-fk3GQ5A/about
+  https://www.instructables.com/Making-a-Clock-With-a-Hard-Disk/
+  by HeeNano: https://www.youtube.com/channel/UCl6q8_pnFZzDTH5-fk3GQ5A/about
 - Arduino Nano every Getting started guide was helpful:
-https://www.arduino.cc/en/Guide/NANOEvery
+  https://www.arduino.cc/en/Guide/NANOEvery
+- How to rotate objects in WokWi simulator (tip: **Shift**-R):
+  https://hackaday.io/project/181792-how-to-add-move-rotate-wokwi-arduino-simulator
