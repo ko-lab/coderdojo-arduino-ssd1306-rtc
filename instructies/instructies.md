@@ -25,7 +25,7 @@ Als eerste stap moeten we de juiste bibliotheken inladen in de Arduino IDE. Volg
 #### Arduino Nano Every Installatie
 ![install-arduino-nano-every.gif](res/install-arduino-nano-every.gif)
 
-### Code naar echte Arduino shrijven
+### Code naar echte Arduino schrijven
 Nu de arduino ide de juiste onderdelen ingeladen heeft kunnen we verder gaan met de code in te laden en dan naar de arduino te schrijven. 
 Hieronder de stappen.
 #### Code kopieren
