@@ -72,4 +72,4 @@ Hieronder is het design. De begeleider zal dit samen met jou lasercutten. Als er
 ## Finale Resultaat
 Wanneer de staander ineengezet is kan je de breadbords er op plakken.
 Het finale resultaat zou er ongeveer zo moeten uitzien:
-![res/arduino-clock-result.svg](res/arduino-clock-result.svg)
+![res/arduino-clock-result.svg](res/arduino-clock-result.jpg)
