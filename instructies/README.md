@@ -17,11 +17,12 @@ Nu we gezien hebben hoe de code werkt en de bedrading hebben kunnen inspecteren 
 Je begeleider zal je laten zien hoe headers op een arduino gesoldeerd worden. De begeleider zal ook inschatten of het een goed idee is om je zelf eens te laten proberen.
 Belangrijk hier is het gebruik van de de afzuigkap om alle dampen weg te zuigen.
 ### Adruino bedrading.
-**Opgelet: Laat je bedrading altijd eerst nog door een begeleider nakijken!** Zo voorkom je kapotte onderdelen.\
-Sluit de bedrading aan zoals het ook in de WokWi simulator is aangesloten.
-![res/arduino-clock-schema.png](res/arduino-clock-schema.png)
-Of je kan je ook baseren op de volgende foto:\
-![res/arduino-clock-real-wiring-front.jpg](res/arduino-clock-real-wiring-front.jpg)
+**Opgelet: Laat je bedrading altijd eerst nog door een begeleider nakijken!**, zo voorkom je kapotte onderdelen.-\
+- Knip de voorzien draadjes op maat zodat ze mooi uitkomen zoals de foto hieronder. Hier hoort ook wat wire stripping bij.
+- Sluit de bedrading aan zoals het ook in de WokWi simulator is aangesloten.
+  ![res/arduino-clock-schema.png](res/arduino-clock-schema.png)\
+- Of je kan je ook baseren op de volgende foto:\
+  ![res/arduino-clock-real-wiring-front.jpg](res/arduino-clock-real-wiring-front.jpg)
 
 ### Arduino IDE instellen
 Als eerste stap moeten we de juiste bibliotheken inladen in de Arduino IDE. Volg daar voor de gifs hieronder:
