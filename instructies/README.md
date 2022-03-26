@@ -1,15 +1,21 @@
 # Intructies voor de Arduino Klok Coder Dojo
 ## Code en Simulatie
-### Test het project uit in de wokwi simulator:
+### Vervolledig het project uit in de wokwi simulator:
 https://wokwi.com/projects/326872404161725010
+- Eerst moet je de draden goed trekken, probeer daarvoor ook wat in de wokwi documentatie te lezen door op een onderdeel te klikken en dan op het vraagtekentje
+- Probeer het uit, als de draden goed aangesloten is zou de Dag en seconden al weergegeven moeten worden.
+- Om de draden de gewenste kleur te geven, moet je naar de diagram.json file gaan en daar de kleuren aanpassen.
+- Vul op de plaatsen met TODO de nodige code in om de klok te vervolledigen.
 - Speel een beetje met bedrading en mogelijks met code.
 - Test het instellen van de clock uit door de rtc.adjust lijn naar keuze te activeren. bvb: `// rtc.adjust(DateTime(2022, 3, 22, 23, 37, 0));`
 - Probeer eens de dag weg te laten
 - Probeer eens de dag onder te tijd te zetten
-
+- Werkend project in de simulator kan je hier vinden: https://wokwi.com/projects/327233707566957140
 ## Echte Arduino
 Nu we gezien hebben hoe de code werkt en de bedrading hebben kunnen inspecteren in een virtuele omgeving, gaan we de arduino installatie in het echt doen.
-
+### Headers solderen
+Je begeleider zal je laten zien hoe headers op een arduino gesoldeerd worden. De begeleider zal ook inschatten of het een goed idee is om je zelf eens te laten proberen.
+Belangrijk hier is het gebruik van de de afzuigkap om alle dampen weg te zuigen.
 ### Adruino bedrading.
 **Opgelet: Laat je bedrading altijd eerst nog door een begeleider nakijken!** Zo voorkom je kapotte onderdelen.\
 Sluit de bedrading aan zoals het ook in de WokWi simulator is aangesloten.
