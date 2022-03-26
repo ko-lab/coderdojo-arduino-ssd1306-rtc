@@ -64,5 +64,8 @@ Het zal je waarschijnlijk opvallen dat de klok nog niet juist staat. Om dat op t
   ```
   - Deploy de code opnieuw(klik op het pijltje in de IDE linksboven)
 
-## Knutselwerk
-Nu de Arduino klok werkt, kunnen we de alles ineen knutselen! Dit gedeelte wordt later nog verder aangevuld.
+## Staander Lasercutten
+Nu wel alles werkend hebben kunnen we nog een staander lasercutten zodat we het recht kunnen zetten.
+Hieronder is het design. De begeleider zal dit samen met jou lasercutten. Als er nog tijd over is kan je ook het design nog aanpassen met [inkscape](https://inkscape.org/).
+![res/arduino-stand-cut-kolab.svg](res/arduino-stand-cut-kolab.svg)
+
